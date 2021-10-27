@@ -1,0 +1,13 @@
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\bin\Debug\netcoreapp3.1\MergeSortNN.exe
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\bin\Debug\netcoreapp3.1\MergeSortNN.deps.json
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\bin\Debug\netcoreapp3.1\MergeSortNN.runtimeconfig.json
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\bin\Debug\netcoreapp3.1\MergeSortNN.runtimeconfig.dev.json
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\bin\Debug\netcoreapp3.1\MergeSortNN.dll
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\bin\Debug\netcoreapp3.1\MergeSortNN.pdb
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\obj\Debug\netcoreapp3.1\MergeSortNN.csprojAssemblyReference.cache
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\obj\Debug\netcoreapp3.1\MergeSortNN.AssemblyInfoInputs.cache
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\obj\Debug\netcoreapp3.1\MergeSortNN.AssemblyInfo.cs
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\obj\Debug\netcoreapp3.1\MergeSortNN.csproj.CoreCompileInputs.cache
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\obj\Debug\netcoreapp3.1\MergeSortNN.dll
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\obj\Debug\netcoreapp3.1\MergeSortNN.pdb
+C:\Users\ddddd\source\repos\MergeSortNN\MergeSortNN\obj\Debug\netcoreapp3.1\MergeSortNN.genruntimeconfig.cache
